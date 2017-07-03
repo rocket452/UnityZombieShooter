@@ -1,10 +1,9 @@
-/[Ll]ibrary/
-/[Oo]bj/
-/[Tt]emp/
-/ZombieShooterProject/Temp/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
+/ZombieShooterProject/[Ll]ibrary/
+/ZombieShooterProject/[Oo]bj/
+/ZombieShooterProject/[Tt]emp/
+/ZombieShooterProject/[Bb]uild/
+/ZombieShooterProject/[Bb]uilds/
+/ZombieShooterProject/Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
 /.vs/
